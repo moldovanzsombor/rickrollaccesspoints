@@ -1,1 +1,5 @@
 # rickrollaccesspoints
+
+### Requirements
+* Scapy
+* randmac
