@@ -1,4 +1,5 @@
-banner = r"""                                                                   =/Lz|/7v\r;
+banner = \
+r"""                                                                   =/Lz|/7v\r;
       ______________________________________________            ;LEOD&MDMMDDKPF;
      |                                              |          ^?Lj6&BB#NBgDgND$S>
      | Rick Roll Access Points!                     |        ^\cvSZ6DMMNB#NNggROhj;
