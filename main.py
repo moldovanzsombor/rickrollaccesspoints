@@ -88,7 +88,6 @@ if __name__ == "__main__":
 		print('Must run as root!\n')
 		exit()
 
-	threads = []
 	accesspoints = []
 	interface = "wlan0mon"
 	accesspoint_count = len(lyrics)
