@@ -4,7 +4,7 @@
 * scapy
 * randmac
 
-## Monitor mode.
+## Monitor mode
 For this to work you must first put your wireless device into monitor mode. One way doing it is demonstrated below using airmon-ng.
 $ sudo airmon-ng start wlan0
 
